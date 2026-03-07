@@ -40,13 +40,6 @@
       <br/>
       <sub>Universal skill migration tool for Letta Code</sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Vedant020000/letta-bot-skills">
-        <img alt="letta-bot-skills" src="https://opengraph.githubassets.com/1/Vedant020000/letta-bot-skills" width="460" />
-      </a>
-      <br/>
-      <sub>Collection of skills for Letta bots</sub>
-    </td>
   </tr>
 </table>
 
