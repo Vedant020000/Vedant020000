@@ -41,6 +41,15 @@
       <sub>Universal skill migration tool for Letta Code</sub>
     </td>
   </tr>
+   <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Vedant020000/letta-teams">
+        <img alt="letta-teams" src="https://opengraph.githubassets.com/1/Vedant020000/letta-teams" width="460" />
+      </a>
+      <br/>
+      <sub>A CLI interface for Letta Code and LettaBot agents to orchestrate teams of stateful AI agents</sub>
+    </td>
+  </tr>
 </table>
 
 <h2>💻 Tech Stack</h2>
