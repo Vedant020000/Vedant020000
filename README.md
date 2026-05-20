@@ -1,8 +1,11 @@
 <h1 align="center">Vedant Sondur</h1>
 
 <p align="center">
-  Building at the intersection of AI agents, memory, and education.<br/>
-  Founder of <strong>Slate</strong> &mdash; an AI-native teaching environment for the next generation of classrooms.
+  Building infrastructure for human observation.
+</p>
+
+<p align="center">
+  Founder of <strong>Vivaran</strong> &mdash; the data layer for institutions that develop people.
 </p>
 
 <p align="center">
@@ -15,59 +18,47 @@
   </a>
 </p>
 
----
-
-## What I'm building
-
-**Slate** is an AI-native teaching environment &mdash; designed specifically for teachers and built around neurodivergent inclusion. It is not another student-facing chatbot. It handles the invisible workload: lesson scaffolding, adaptive planning, and real-time context about how each student learns.
-
-I care about this because most edtech ignores the person at the front of the room.
+<p align="center">
+  <img src="./assets/vivaran-banner.png" alt="Vivaran" width="100%" />
+</p>
 
 ---
 
-## Open source work
+## Vivaran
 
-These projects live in public because I think the AI agent ecosystem needs more building blocks, not more demos.
+Vivaran is observation infrastructure for institutions that develop people.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Vedant020000/letta-teams">letta-teams</a></h3>
-      <p>CLI interface to orchestrate teams of stateful AI agents with <a href="https://github.com/letta-ai/letta">Letta</a>. Manage agent personas, assign roles, route tasks &mdash; from the terminal.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Vedant020000/letta-chrome-extension">letta-chrome-extension</a></h3>
-      <p>Chrome extension that captures chat conversations and injects them as structured memory into Letta agent workflows. Bridges the gap between browser activity and persistent AI context.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Vedant020000/letta-convert">letta-convert</a></h3>
-      <p>Universal skill migration tool for Letta Code. Handles converting and porting agent skills across environments without breaking existing tool signatures.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Vedant020000/letta-snippets">letta-snippets</a></h3>
-      <p>TypeScript and Python snippets that cut the boilerplate out of building with the Letta SDK. Patterns I kept rewriting &mdash; now they&apos;re reusable.</p>
-    </td>
-  </tr>
-</table>
+Schools, therapy centres, and clinics already run on human observation. Most of that context disappears into paper records, staff memory, and disconnected systems. Vivaran gives those observations a home: **Storage &rarr; Search &rarr; Patterns**.
+
+The goal is simple: no observation dies with the person who made it.
 
 ---
 
-## How I think about building
+## Why this matters
 
-Most AI tooling is built for demos. I build for the session after the demo &mdash; when edge cases appear, state gets messy, and the agent needs to actually remember something useful.
+Institutions that work closely with people are rich in activity and poor in memory.
 
-My work on Letta is not academic. Everything here came out of something I needed for Slate.
+A teacher notices hesitation. A therapist sees first eye contact. A parent hears a new word. These moments matter, but most systems cannot preserve, connect, or explain them. I am building infrastructure that makes human observation legible, persistent, and compoundable.
 
 ---
 
-## Currently exploring
+## What I build around
 
-- Stateful agent architectures for long-horizon tasks
-- Memory persistence patterns in multi-agent systems
-- Psychometric and neurodivergent-aware UX in edtech
-- Rust for performance-critical backend work
+- Observation capture and evidence systems
+- Long-term memory architecture for institutions
+- Multi-tenant SaaS across B2B and B2C workflows
+- Neurodivergent-aware product design
+- Systems that survive real use, not just demos
+
+---
+
+## Selected work
+
+- **[Vivaran](https://vivaran.app)** &mdash; observation infrastructure for institutions that develop people
+- **[letta-teams](https://github.com/Vedant020000/letta-teams)** &mdash; orchestration for stateful agent teams
+- **[letta-chrome-extension](https://github.com/Vedant020000/letta-chrome-extension)** &mdash; browser-to-memory bridge
+- **[letta-convert](https://github.com/Vedant020000/letta-convert)** &mdash; migration tooling for Letta Code
+- **[letta-snippets](https://github.com/Vedant020000/letta-snippets)** &mdash; reusable SDK patterns in TypeScript and Python
 
 ---
 
