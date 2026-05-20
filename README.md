@@ -1,71 +1,76 @@
 <h1 align="center">Vedant Sondur</h1>
 
 <p align="center">
-  Small dev building small to medium projects around Letta, memory, simulations, and tooling.
+  Building at the intersection of AI agents, memory, and education.<br/>
+  Founder of <strong>Slate</strong> &mdash; an AI-native teaching environment for the next generation of classrooms.
 </p>
 
 <p align="center">
   <a href="mailto:vedantsondur020@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" />
   </a>
+  &nbsp;
   <a href="https://buymeacoffee.com/vedant0200">
-    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+    <img alt="Support" src="https://img.shields.io/badge/Support%20my%20work-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
 
-<h2>🚀 Public Projects</h2>
+---
+
+## What I'm building
+
+**Slate** is an AI-native teaching environment &mdash; designed specifically for teachers and built around neurodivergent inclusion. It is not another student-facing chatbot. It handles the invisible workload: lesson scaffolding, adaptive planning, and real-time context about how each student learns.
+
+I care about this because most edtech ignores the person at the front of the room.
+
+---
+
+## Open source work
+
+These projects live in public because I think the AI agent ecosystem needs more building blocks, not more demos.
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Vedant020000/letta-chrome-extension">
-        <img alt="letta-chrome-extension" src="https://opengraph.githubassets.com/1/Vedant020000/letta-chrome-extension" width="460" />
-      </a>
-      <br/>
-      <sub>Chrome extension to capture chats and help inject memory into AI workflows</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Vedant020000/letta-teams">letta-teams</a></h3>
+      <p>CLI interface to orchestrate teams of stateful AI agents with <a href="https://github.com/letta-ai/letta">Letta</a>. Manage agent personas, assign roles, route tasks &mdash; from the terminal.</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Vedant020000/letta-snippets">
-        <img alt="letta-snippets" src="https://opengraph.githubassets.com/1/Vedant020000/letta-snippets" width="460" />
-      </a>
-      <br/>
-      <sub>TypeScript and Python snippets to build faster with the Letta SDK</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Vedant020000/letta-chrome-extension">letta-chrome-extension</a></h3>
+      <p>Chrome extension that captures chat conversations and injects them as structured memory into Letta agent workflows. Bridges the gap between browser activity and persistent AI context.</p>
     </td>
   </tr>
-<tr>
-  <td align="center" width="50%">
-    <a href="https://github.com/Vedant020000/letta-convert">
-      <img alt="letta-convert" src="https://opengraph.githubassets.com/1/Vedant020000/letta-convert" width="460" />
-    </a>
-    <br/>
-    <sub>Universal skill migration tool for Letta Code</sub>
-  </td>
-  <td align="center" width="50%">
-    <a href="https://github.com/Vedant020000/letta-teams">
-      <img alt="letta-teams" src="https://opengraph.githubassets.com/1/Vedant020000/letta-teams" width="460" />
-    </a>
-    <br/>
-    <sub>A CLI interface for Letta Code and LettaBot agents to orchestrate teams of stateful AI agents</sub>
-  </td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Vedant020000/letta-convert">letta-convert</a></h3>
+      <p>Universal skill migration tool for Letta Code. Handles converting and porting agent skills across environments without breaking existing tool signatures.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Vedant020000/letta-snippets">letta-snippets</a></h3>
+      <p>TypeScript and Python snippets that cut the boilerplate out of building with the Letta SDK. Patterns I kept rewriting &mdash; now they&apos;re reusable.</p>
+    </td>
+  </tr>
 </table>
 
-<h2>💻 Tech Stack</h2>
+---
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/postgres-316192?style=flat&logo=postgresql&logoColor=white" />
-</p>
+## How I think about building
 
-<h2>📈 Activity</h2>
+Most AI tooling is built for demos. I build for the session after the demo &mdash; when edge cases appear, state gets messy, and the agent needs to actually remember something useful.
+
+My work on Letta is not academic. Everything here came out of something I needed for Slate.
+
+---
+
+## Currently exploring
+
+- Stateful agent architectures for long-horizon tasks
+- Memory persistence patterns in multi-agent systems
+- Psychometric and neurodivergent-aware UX in edtech
+- Rust for performance-critical backend work
+
+---
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Vedant020000&theme=dark&hide_border=false" />
-  <br/>
-  <br/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vedant020000/Vedant020000/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution activity" src="https://raw.githubusercontent.com/Vedant020000/Vedant020000/output/github-contribution-grid-snake-dark.svg" />
 </p>
