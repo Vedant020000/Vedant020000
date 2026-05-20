@@ -52,13 +52,11 @@ A teacher notices hesitation. A therapist sees first eye contact. A parent hears
 
 ---
 
-## Selected work
+## Projects
 
 - **[Vivaran](https://vivaran.app)** &mdash; observation infrastructure for institutions that develop people
 - **[letta-teams](https://github.com/Vedant020000/letta-teams)** &mdash; orchestration for stateful agent teams
 - **[letta-chrome-extension](https://github.com/Vedant020000/letta-chrome-extension)** &mdash; browser-to-memory bridge
-- **[letta-convert](https://github.com/Vedant020000/letta-convert)** &mdash; migration tooling for Letta Code
-- **[letta-snippets](https://github.com/Vedant020000/letta-snippets)** &mdash; reusable SDK patterns in TypeScript and Python
 
 ---
 
